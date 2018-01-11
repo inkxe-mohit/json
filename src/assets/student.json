@@ -1,0 +1,9 @@
+[
+    {"id": 1, "name": "Mohit", "gender": "male", "Mob": "9776841533", "status":"Passed"},
+    {"id": 2, "name": "Vijay", "gender": "male", "Mob": "9776841533", "status":"Passed"},
+    {"id": 3, "name": "Sourav", "gender": "male", "Mob": "9776841533", "status":"Passed"},
+    {"id": 4, "name": "Sohel", "gender": "male", "Mob": "9776841533", "status":"Passed"},
+    {"id": 5, "name": "Nandani", "gender": "female", "Mob": "9776841533", "status":"Passed"},
+    {"id": 6, "name": "Divya", "gender": "female", "Mob": "9776841533", "status":"Passed"}
+
+]
